@@ -6,6 +6,7 @@ import Welcome from './features/auth/welcome'
 import RequireAuth from './features/auth/requireAuth'
 import UsersList from './features/users/usersList'
 
+import './App.css';
 function App() {
   return (
     <Routes>
